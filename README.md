@@ -23,7 +23,7 @@ You can checkout my handle @shiva2478.
 
 * Mail me on [Gmail](beingshiva78@gmail.com) 
 * Connect me on [LinkedIn](linkedin.com/in/shiva2478)
-* Personal Website [Portfolio](https://www.youtube.com/channel/UCW8Jb90x-BXajUebFaROpmA)
+* Personal Website [Portfolio](https://shivajr78.netlify.app/)
 
 Thanks!! ✌️
 
