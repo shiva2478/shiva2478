@@ -7,9 +7,7 @@ I am a constant learner and very enthusiastic for working with new people and ne
 
 I am pursuing B.Tech. Computer Science Engineering " 7th Semester " from Ganga Institute of Technology & Management, MDU. Being from a tech background I am interested in programming using Java along with Data Structures and Algorithms.
 
-More Skills : C/C++ | Python [beginners] | Web Development - HTML, CSS and JavaScript.
-
-And learning many more...
+More Skills : C/C++ | MERN Stack Development - HTML, CSS, JavaScript, Node.js and Express.js
 
 I am on various competitive platforms like HackerRank, GeeksForGeeks, LeetCode and CodingNinjas. 
 You can checkout my handle @shiva2478.
