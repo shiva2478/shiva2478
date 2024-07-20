@@ -3,9 +3,9 @@
 
 ## About me!
 Hello there!👋🏻...
-I am pursuing B.Tech. Computer Science Engineering " 8th Semester " from Ganga Institute of Technology & Management. 
+I am Shiva, a Computer Science Engineering graduate from Ganga Institute of Technology & Management, MDU.
 
-Being from a Tech background I am very enthusiastic about tech and curious to learn new skills. and I am interested in Full Stack Development Using MERN Stack. Currently, I'm learning programming using Java along with Data Structures and Algorithms.
+Being from a Tech background I am very enthusiastic about tech and curious to learn new skills. and I am interested in Full Stack Development Using MERN Stack. Currently, I'm learning the Next.js Framework.
 
 ✨ I am a Full Stack Developer. You can check out my projects on my GitHub.
 Link: github.com/shivajr78
@@ -20,8 +20,8 @@ You can check out my handle @shivajr78.
 I would love to connect and learn more from you!! 
 
 Drop a Hi! 😃
-* Mail me on [Gmail](beingshiva78@gmail.com) 
-* Connect me on [LinkedIn](linkedin.com/in/shiva2478)
+* Mail me on [Gmail](beingshiva78@gmail.com)     
+* Connect me on [LinkedIn](linkedin.com/in/shivajr78)
 * Personal Website [Portfolio](https://shivajr78.netlify.app/)
 
 Thanks!! ✌️
