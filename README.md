@@ -7,6 +7,12 @@ I am Shiva, a Computer Science Engineering graduate from Ganga Institute of Tech
 
 Being from a Tech background I am very enthusiastic about tech and curious to learn new skills. and I am interested in Full Stack Development Using MERN Stack. Currently, I'm learning the Next.js Framework.
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivajr78&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivajr78&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivajr78&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ✨ I am a Full Stack Developer. You can check out my projects on my GitHub.
 Link: github.com/shivajr78
 
