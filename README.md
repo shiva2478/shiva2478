@@ -11,7 +11,7 @@ I'm Shiva, a passionate Software Developer and a Computer Science graduate from 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivajr78&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivajr78&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-✨ As I am a Full Stack Developer. You can check out my projects here on my GitHub.
+✨ As I am a Full Stack Developer. You can check out my projects here on my GitHub.<br/>
 ✨ I am also on various competitive platforms like HackerRank, LeetCode, and CodingNinjas. 
 You can check out my handle @shivajr78.
 
