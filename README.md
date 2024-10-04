@@ -10,8 +10,8 @@ I'm Shiva, a passionate Software Developer and a Computer Science graduate from 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/shivajr78?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="shivajr78" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivajr78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivajr78/" height="30" width="40" /></a>
+<a href="https://x.com/shivajr78?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivajr78" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/shivajr78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivajr78/" height="30" width="40" /></a>
 <a href="https://instagram.com/shivajr76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivajr76" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/@ss2958560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ss2958560" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/https://www.youtube.com/@codingify28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codingify28" height="30" width="40" /></a> -->
