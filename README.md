@@ -4,6 +4,7 @@
 <h1>Hello!👋🏻...</h1>
 I'm Shiva, a passionate Software Developer and a Computer Science graduate from Maharshi Dayanand University. My journey into MERN Stack Development has been like solving a never-ending puzzle, and I absolutely love it! With solid Full Stack Development skills, I thrive on creating and enhancing web applications.
 
+---
 [![](https://visitcount.itsvg.in/api?id=shivajr78&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
@@ -27,5 +28,5 @@ Drop a Hi! 😃
 
 Thanks!! ✌️
 
----
+
 
