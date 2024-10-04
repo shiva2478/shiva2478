@@ -16,7 +16,7 @@ I'm Shiva, a passionate Software Developer and a Computer Science graduate from 
 <!-- <a href="https://medium.com/@ss2958560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ss2958560" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/https://www.youtube.com/@codingify28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codingify28" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/shivajr78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shivajr78" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shivajr78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivajr78/" height="30" width="40" /></a>
+<a href="https://leetcode.com/shivajr78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivajr78/" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
